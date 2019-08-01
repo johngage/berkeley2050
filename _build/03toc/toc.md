@@ -1,0 +1,43 @@
+---
+title: 'Table of Contents'
+prev_page:
+  url: /02quote/quote.html
+  title: 'Quote'
+next_page:
+  url: /04forward/forward.html
+  title: 'Forward'
+comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
+---
+### Table of Contents
+
+- Forward by Mayor Jesse Arreguin
+- Acknowledgements
+- Executive Summary
+- The Vision 2050 Initiative
+- What is Infrastructure?
+- What is the Problem?
+- How Was This Report Developed?
+- Street Corner View of Berkeley in 2050
+- A Vision for Berkeley in 2050
+- Establishing Our Core Values
+- Building on Current Infrastructure Planning
+- Building on the City’s Planning
+- Current Infrastructure Investments
+- Current Financial Challenges
+- Future Challenges for Our Infrastructure
+- Demographic Trends in Berkeley
+- Quality of Life Challenges
+- Environmental Challenges
+- Technology Pathways
+- Our Opportunities
+- Our Recommendations
+- Policies to Move Us Forward
+- Planning for the Future
+- Finance for the Future
+- Implement for the Future
+- Exciting Projects Ahead
+- Engaging Our Community
+- Actions to Move Us Forward
+- Appendices
+- Glossary of Terms
+- Review of City Plans for Infrastructure Action
