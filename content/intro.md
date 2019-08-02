@@ -6,7 +6,7 @@ Not all the images and tables are in this Version 0.1
 
 This link below goes to Ray Yep's draft, which has no content yet in Sections 6 and 7.
 
-Use the [Table of Contents](../../03toc/toc) to navigate the chapters.
+Use the [Table of Contents](../../03toc/toc) to navigate the chapters. Note the button at the top to open or close the sidebar that shows the chapters.
 
 I put this into a JupyterBook, so that it would be easier to incorporate data science analytics.
 
