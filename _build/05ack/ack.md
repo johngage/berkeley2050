@@ -9,15 +9,17 @@ next_page:
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 ### Acknowledgements
-Mayor’s Office
-	Jesse Arreguin, Mayor
-	Brandi Campbell, Former Chief of Staff
-	Tano Trachtenberg, Legislative Aide
+### Mayor’s Office
+- Jesse Arreguin, Mayor
+- Brandi Campbell, Former Chief of Staff
+- Tano Trachtenberg, Legislative Aide
 
-Task Force Leadership
+`Task Force Leadership
 	Ray Yep, Chair
 	Margo Schueler, Co-chair
+`
 
+```
 Steering Committee
 	Karen Parolek, Quality of Life Work Group lead
 	Debbie Sanderson, Quality of Life Work Group co-lead
@@ -30,6 +32,8 @@ Steering Committee
 	Jim McGrath, Technology Work Group member
 	Bruce Riordan, Environment Work Group member
 	Ray Yep, Task Force chair
+```
+
 
 Task Force Members
 

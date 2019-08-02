@@ -16,9 +16,7 @@ Not all the images and tables are in this version, yet. In progress.
 
 A link below goes to Ray Yep's draft of August 1, 2019. As content is added to Section 6 and 7, and revisions occur, I'll update.
 
-Use the [Table of Contents](../../03toc/toc)
-
-or [Table of Contents](../03toc/toc) to navigate the chapters. Note the button at the top to open or close the sidebar that shows the chapters.
+Use the [Table of Contents2][toc2] to navigate the chapters. Note the button at the top to open or close the sidebar that shows the chapters.
 
 I put this into a JupyterBook, so that it would be easier to incorporate data science analytics and real-time visualizations.
 
@@ -36,3 +34,5 @@ As an example, look at Paul Hawken, (Berkeley High School, 1962) for his down-to
 And note that our new financial suggestions could be added to Paul's book as tools for change.
 
 ####  John Gage, August 1, 2019
+[toc1]: 03toc/toc
+[toc2]: 03toc/toc.html
