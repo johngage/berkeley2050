@@ -29,25 +29,13 @@ Table 1 shows the magnitude of Berkeley’s infrastructure systems.
 
 
 ## Berkeley Infrastructure Systems
-Infrastructure System
-Controlled by City
-Controlled by Others
-Streets, Sidewalks, Paths,
-Bikeways, and Tunnels
-216 miles of streets
-300 miles of sidewalks
-50 miles of paths and bikeways
-AC Transit buses
-BART system
-Lyft and Uber
-ZipCar, Gig, etc.
-Power and Communication Systems
-7,000 street lights
-PG&E electricity and natural gas delivery systems
-Private telecommunications and Internet services
-Parks and Street Trees and public plantings
-38,000 street trees
-52 parks
+
+
+Infrastructure System | Controlled by City | Controlled by Others
+ :---: | :--- | :---:
+Streets, Sidewalks, Paths, Bikeways, and Tunnels | - 216 miles of streets - 300 miles of sidewalks - 50 miles of paths and bikeways | - AC Transit buses - BART system - Lyft and Uber - ZipCar, Gig, etc.
+Power and Communication Systems |  - 7,000 street lights | - PG&E electricity and natural gas delivery systems - -Private telecommunications and Internet services
+Parks and Street Trees and public plantings |  - 38,000 street trees - 52 parks |
 
 
 Water Supply System
@@ -72,7 +60,8 @@ Alameda County construction & demolition debris services
 ## What is the Problem?
 Berkeley, along with much of the United States, is faced with infrastructure that was built 80+ years ago. Many facilities in Berkeley were built as part of the Works Progress Administration (WPA) in the late 1930’s. Those projects included Aquatic Park, the Berkeley yacht harbor, Rose Garden, Civic Center, the Community Theater on the Berkeley High campus, and many other facilities. The City’s streets, storm drains, sewers, and EBMUD’s water lines are also of similar age, if not older. The problem with aging infrastructure is that they are susceptible to unplanned failure, cause service interruptions, cost more to maintain and don’t meet current requirements.
 
-Our infrastructure systems are old, much of it is at the end of its useful life. How we got to this situation is also a problem. We have not planned for all of the needed repairs and provided the necessary funding to keep the systems in good working condition. We do not have a life cycle approach to managing our infrastructure. As we rebuild, the infrastructure must change in response to population changes, environmental demands and technology innovations.
+Our infrastructure systems are old, ![Aging piping systems](../images/streetwork.png)
+much of it is at the end of its useful life. How we got to this situation is also a problem. We have not planned for all of the needed repairs and provided the necessary funding to keep the systems in good working condition. We do not have a life cycle approach to managing our infrastructure. As we rebuild, the infrastructure must change in response to population changes, environmental demands and technology innovations.
 
 To meet these complex challenges, we need to transform our infrastructure management to include:
 - A longer term view
@@ -84,6 +73,6 @@ To meet these complex challenges, we need to transform our infrastructure manage
 
 Mayor Arreguin announced in his 2017 State of the City address his intention to develop Vision 2050 – a long–term infrastructure plan to create a City that is resilient and sustainable for future generations. The initiative began in April 2018 and concluded in November 2019. A task force was formed that included over 40 people from across our community. The work was organized into four work groups – quality of life, environment, technology, and finance/management. Involving the community was very important in the process and that involvement included a series of information sessions in Fall 2018 and community workshops in Summer 2019. Our community voiced their support for this Plan with the passage of Measure R in the November 2018 election, which asked our Berkeley voters the following:
 
-_Shall the measure, advising the Mayor to engage citizens and experts in the development of Vision 2050, a 30-year plan to identify and guide implementation of climate-smart, technologically-advanced, integrated and efficient infrastructure to support a safe, vibrant and resilient future for Berkeley, be adopted?_
+> _Shall the measure, advising the Mayor to engage citizens and experts in the development of Vision 2050, a 30-year plan to identify and guide implementation of climate-smart, technologically-advanced, integrated and efficient infrastructure to support a safe, vibrant and resilient future for Berkeley, be adopted?_
 
 Our community’s overwhelming response was “yes.”

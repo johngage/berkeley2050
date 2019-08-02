@@ -14,8 +14,8 @@ Editorial suggestions and annotations are easier to share in the form of a publi
 
 The hope is to provide an open platform for the Berkeley community to freely explore data about our shared future.
 
-### Here's Ray Yep's draft, from which I built this Berkley 2050 web site.
-[August 1, 2019 Task Force Draft](https://docs.google.com/document/d/1Ml51RzCysdXetzAxP0LFQqITZPMNkGskKt_v7Budv8g/edit)
+### Here's **Ray Yep**'s draft, from which I built this Berkeley2050 web site.
+[**Berkeley Vision 2050** _Working Draft_, August 1, 2019](https://docs.google.com/document/d/1Ml51RzCysdXetzAxP0LFQqITZPMNkGskKt_v7Budv8g/edit?usp=sharing)
 
 ## I have added some links to supporting reading and data sources.
 

@@ -16,7 +16,7 @@ Not all the images and tables are in this version, yet. In progress.
 
 A link below goes to Ray Yep's draft of August 1, 2019. As content is added to Section 6 and 7, and revisions occur, I'll update.
 
-Use the [Table of Contents2][toc2] to navigate the chapters. Note the button at the top to open or close the sidebar that shows the chapters.
+Use the [Table of Contents][toc2]  in the left sidebar to navigate the chapters. Note the button at the top to open or close the sidebar that shows the chapters.
 
 I put this into a JupyterBook, so that it would be easier to incorporate data science analytics and real-time visualizations.
 
@@ -24,8 +24,8 @@ Editorial suggestions and annotations are easier to share in the form of a publi
 
 The hope is to provide an open platform for the Berkeley community to freely explore data about our shared future.
 
-### Here's Ray Yep's draft, from which I built this Berkley 2050 web site.
-[August 1, 2019 Task Force Draft](https://docs.google.com/document/d/1Ml51RzCysdXetzAxP0LFQqITZPMNkGskKt_v7Budv8g/edit)
+### Here's **Ray Yep**'s draft, from which I built this Berkeley2050 web site.
+[**Berkeley Vision 2050** _Working Draft_, August 1, 2019](https://docs.google.com/document/d/1Ml51RzCysdXetzAxP0LFQqITZPMNkGskKt_v7Budv8g/edit?usp=sharing)
 
 ## I have added some links to supporting reading and data sources.
 
