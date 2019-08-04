@@ -4,3 +4,7 @@
     margin-right: 5px;
     float: left;
 }
+.boldtable, .boldtable td, .boldtable th {    font-family: sans-serif;   font-size: 12pt;   color: white;   background-color: navy;text-align: left}
+
+
+td {text-align: left;padding: 10px 5px;  font-family: sans-serif;background-color: green ; font-size: 15pt }
