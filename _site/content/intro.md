@@ -1,6 +1,8 @@
 ## Berkeley 2050 Vision materials
 
-- Draft for August 1 6:30pm meeting City Hall, sixth floor.
+Most recent update: **Monday, August 5, 2019**
+
+- Draft document prepared for August 1, 2019 6:30pm meeting City Hall, sixth floor.
 
 Not all the images and tables are in this version, yet. In progress.
 
@@ -8,7 +10,7 @@ A link below goes to Ray Yep's draft of August 1, 2019. As content is added to S
 
 Use the [Table of Contents][toc2]  in the left sidebar to navigate the chapters. Note the button at the top to open or close the sidebar that shows the chapters.
 
-I put this into a JupyterBook, so that it would be easier to incorporate data science analytics and real-time visualizations.
+I put this into a JupyterBook, to incorporate data science analytics,  real-time visualizations, and detailed maps incorporating the data.
 
 Editorial suggestions and annotations are easier to share in the form of a published book than in Word documents or GoogleSheets. This book can run live Jupyter Notebooks, so the reader can pull in ever-changing data, and explore, analyze and visualize it in real-time.
 
@@ -26,6 +28,9 @@ Linking Berkeley data sources to the Drawdown analysis will let us track how wel
 
 And note that our Taskforce recommendations for new financial tools to fund Berkeley infrastructure investment are tools for change as important as those cataloged in Paul's book.
 
+[Suggested edits][edits]
+
 ####  John Gage, August 1, 2019
 [toc1]: 03toc/toc
 [toc2]: 03toc/toc.html
+[edits]: edits/section1.html

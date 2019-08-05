@@ -27,8 +27,7 @@ Infrastructure on the surface is the most familiar feature—streets, sidewalks 
 Beneath our feet is another extensive world of cables, pipes, tunnels and vaults that we rarely think about until something breaks. This infrastructure delivers water to our homes and businesses, brings natural gas for heating and cooking, and takes away our sewage. It is also part of the electric and communications grids and home to Berkeley’s underground BART system.
 
 Table 1 shows the magnitude of Berkeley’s infrastructure systems.
-
-Table in grid markdown.
+[Table 1A shows a constantly-updated catalog of Berkeley's infrastructure systems]()
 
 <table>
 <thead>
