@@ -22,7 +22,7 @@
 
 
 <p> <img src="../images/bart2.png" alt="Berkeley Downtown BART" title="BART" width="50%"/></p>
-
+*Berkeley Downtown BART station (tens of millions of dollars of capital investment)*
  ![Berkeley High permeable street](../images/bike.jpg)
  *Permeable paving by Berkeley High*
 
