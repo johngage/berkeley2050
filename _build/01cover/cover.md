@@ -22,7 +22,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
  Our goal is open data, open analysis, open discussion, open decision making. Democracy relies upon common facts and agreed-upon common analysis of those facts.
 
-##  If you don't like the analysis, then go out and make your own.
+##  If you don't like the analysis, then go out and make one of your own.
 
 *Berkeley Capital Infrastructure Investments*
 
