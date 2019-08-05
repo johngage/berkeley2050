@@ -31,6 +31,7 @@ The hope is to provide an open platform for the Berkeley community to freely exp
 
 As an example, look at Paul Hawken, (Berkeley High School, 1962) for his **down-to-the-Berkeley-refrigerator-level** detail of infrastructure action to reverse global warming:
 [Paul Hawken: _Drawdown_](https://www.drawdown.org/) and a set of his references: [Drawdown References](https://www.drawdown.org/references)
+
 Linking Berkeley data sources to the Drawdown analysis will let us track how well we are doing in reducing global warming.
 
 And note that our Taskforce recommendations for new financial tools to fund Berkeley infrastructure investment are tools for change as important as those cataloged in Paul's book.
