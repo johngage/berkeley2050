@@ -24,10 +24,18 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 ##  If you don't like the analysis, then go out and make your own.
 
- ![Permeable Parking by University Avenue and Marina](../images/street.jpg)
+*Berkeley Capital Infrastructure Investments*
 
- ![Berkeley BART](../images/berkeley-bart.png)
+ ![Permeable Parking by University Avenue and Marina](../images/street.jpg "Permeable Paving by Aquatic Park")
+ *Permeable paving by Berkeley Aquatic Park*
 
- ![BerkeleyHighpermeable](../images/bike.jpg)
+ ![Berkeley BART](../images/bart2.png ){ width=50% }
+ *Berkeley Downtown BART station*
+
+<p> <img src="../images/bart2.png" alt="Berkeley Downtown BART" title="BART" width="50%"/></p>
+
+ ![Berkeley High permeable street](../images/bike.jpg)
+ *Permeable paving by Berkeley High*
 
  ![Your-Revenue-Bond-dollars-at-work-parking-garage](../images/parking-garage.jpg)
+ *Your revenue bond dollars at work: Berkeley Downtown parking garage*
