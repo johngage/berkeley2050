@@ -13,14 +13,13 @@
  Our goal is open data, open analysis, open discussion, open decision making. Democracy relies upon common facts and agreed-upon common analysis of those facts.
 
 ##  If you don't like the analysis, then go out and make one of your own.
+<p>
 
 *Berkeley Capital Infrastructure Investments*
 
  ![Permeable Parking by University Avenue and Marina](../images/street.jpg "Permeable Paving by Aquatic Park")
  *Permeable paving by Berkeley Aquatic Park*
 
- ![Berkeley BART](../images/bart2.png ){ width=50% }
- *Berkeley Downtown BART station*
 
 <p> <img src="../images/bart2.png" alt="Berkeley Downtown BART" title="BART" width="50%"/></p>
 
