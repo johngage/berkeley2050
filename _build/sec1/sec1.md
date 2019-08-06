@@ -107,13 +107,17 @@ Table 1 shows the magnitude of Berkeley’s infrastructure systems.
 ## What is the Problem?
 Berkeley, along with much of the United States, is faced with infrastructure that was built 80+ years ago.
 ![asphalt and access points](../images/media/7.streetrepairasphalt.jpeg)
-*Years of overlays, retrenching, and repairs*
+*Years of overlays, retrenching, and repairs: asphalt life span: 20 years*
 
 Many facilities in Berkeley were built as part of the Works Progress Administration (WPA) in the late 1930’s. Those projects included Aquatic Park, the Berkeley yacht harbor, Rose Garden, Civic Center, the Community Theater on the Berkeley High campus, and many other facilities. The City’s streets, storm drains, sewers, and EBMUD’s water lines are also of similar age, if not older. The problem with aging infrastructure is that they are susceptible to unplanned failure, cause service interruptions, cost more to maintain and don’t meet current requirements.
 
 
 Our infrastructure systems are old, ![Aging piping systems](../images/streetwork.png)
-much of it is at the end of its useful life. How we got to this situation is also a problem. We have not planned for all of the needed repairs and provided the necessary funding to keep the systems in good working condition. We do not have a life cycle approach to managing our infrastructure. ![Utility poles will fall in an earthquake](../images/media/9.utilitypole.png) As we rebuild, the infrastructure must change in response to population changes, environmental demands and technology innovations.
+*Beneath the massive clean water piping system lies the equally massive sewer pipe system*
+
+much of it is at the end of its useful life. How we got to this situation is also a problem. We have not planned for all of the needed repairs and provided the necessary funding to keep the systems in good working condition. We do not have a life cycle approach to managing our infrastructure. ![Utility poles will fall in an earthquake](../images/media/9.utilitypole.png)
+*Hundreds of miles of high-voltage AC lines criss-cross the city*
+As we rebuild, the infrastructure must change in response to population changes, environmental demands and technology innovations.
 
 To meet these complex challenges, we need to transform our infrastructure management to include:
 - A longer term view
