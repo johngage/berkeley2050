@@ -23,4 +23,4 @@ ___
  *Permeable paving by Berkeley High; no more storm runoff*
 
 ![Your-Revenue-Bond-dollars-at-work-parking-garage](../images/parking-garage.jpg)
- *Your revenue bond dollars at work: Berkeley Downtown parking garage will pay for itself by ____*
+ *Your revenue bond dollars at work: Berkeley Downtown parking garage will pay for itself by ____*; what was the original cost estimate, and how much was the overrun?
