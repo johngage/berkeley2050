@@ -16,7 +16,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 #### Parallel Online WORKING DRAFT : 1 August 2019
 
 ![Berkeley Infrastructure](../images/infrastructure1.jpg)
-* This report is about Berkeley's flows of people, water, power, goods, information, and mone, and the streets, pipes, power lines, communication networks and institutions that make Berkeley possible *
+* This report is about Berkeley's flows of people, water, power, goods, information, and money, and the streets, pipes, power lines, communication networks and institutions that make Berkeley possible *
 
 ### Three Overlapping Entities Build Berkeley Infrastructure
 - **City of Berkeley**:
