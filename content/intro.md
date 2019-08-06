@@ -4,6 +4,17 @@ Most recent update: **Monday, August 5, 2019**
 
 - Draft document prepared for August 1, 2019 6:30pm meeting City Hall, sixth floor.
 
+- ### Note for all readers:
+
+This is a very preliminary working draft. Please don't panic.
+
+ As a new practice in urban planning, we are building a working plan in an interactive book containing the actual calculations that lie behind the analysis, so you can see how each number is derived from data.   *JupyterBooks* include **Jupyter Notebooks**, introduced at UCBerkeley to support all Data Science courses, which allow direct access to all data sources and, more importantly, to all computations and analyses based on that data.
+
+ Our goal is open data, open analysis, open discussion, open decision making. Democracy relies upon common facts and agreed-upon common analysis of those facts.
+
+##  If you don't like the analysis, then go out and make one of your own.
+(Thanks, Scoop Nitzker)
+
 Not all the images and tables are in this version, yet. In progress.
 
 A link below goes to Ray Yep's draft of August 1, 2019. As content is added to Section 6 and 7, and revisions occur, I'll update.
