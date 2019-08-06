@@ -17,7 +17,7 @@ Infrastructure on the surface is the most familiar feature—streets, sidewalks 
 Beneath our feet is another extensive world of cables, pipes, tunnels and vaults that we rarely think about until something breaks. This infrastructure delivers water to our homes and businesses, brings natural gas for heating and cooking, and takes away our sewage. It is also part of the electric and communications grids and home to Berkeley’s underground BART system.
 
 Table 1 shows the magnitude of Berkeley’s infrastructure systems.
-[Table 1A shows a constantly-updated catalog of Berkeley's infrastructure systems]()
+[Table 1A shows a constantly-updated catalog of Berkeley's infrastructure systems][infrastructureupdate]
 
 <table>
 <thead>
@@ -95,10 +95,14 @@ Table 1 shows the magnitude of Berkeley’s infrastructure systems.
 
 
 ## What is the Problem?
-Berkeley, along with much of the United States, is faced with infrastructure that was built 80+ years ago. Many facilities in Berkeley were built as part of the Works Progress Administration (WPA) in the late 1930’s. Those projects included Aquatic Park, the Berkeley yacht harbor, Rose Garden, Civic Center, the Community Theater on the Berkeley High campus, and many other facilities. The City’s streets, storm drains, sewers, and EBMUD’s water lines are also of similar age, if not older. The problem with aging infrastructure is that they are susceptible to unplanned failure, cause service interruptions, cost more to maintain and don’t meet current requirements.
+Berkeley, along with much of the United States, is faced with infrastructure that was built 80+ years ago.
+![asphalt and access points](content/images/media/7.streetrepairasphalt.jpeg)
+
+Many facilities in Berkeley were built as part of the Works Progress Administration (WPA) in the late 1930’s. Those projects included Aquatic Park, the Berkeley yacht harbor, Rose Garden, Civic Center, the Community Theater on the Berkeley High campus, and many other facilities. The City’s streets, storm drains, sewers, and EBMUD’s water lines are also of similar age, if not older. The problem with aging infrastructure is that they are susceptible to unplanned failure, cause service interruptions, cost more to maintain and don’t meet current requirements.
+
 
 Our infrastructure systems are old, ![Aging piping systems](../../images/streetwork.png)
-much of it is at the end of its useful life. How we got to this situation is also a problem. We have not planned for all of the needed repairs and provided the necessary funding to keep the systems in good working condition. We do not have a life cycle approach to managing our infrastructure. As we rebuild, the infrastructure must change in response to population changes, environmental demands and technology innovations.
+much of it is at the end of its useful life. How we got to this situation is also a problem. We have not planned for all of the needed repairs and provided the necessary funding to keep the systems in good working condition. We do not have a life cycle approach to managing our infrastructure. ![Utility poles will fall in an earthquake](content/images/media/9.utilitypole.png) As we rebuild, the infrastructure must change in response to population changes, environmental demands and technology innovations.
 
 To meet these complex challenges, we need to transform our infrastructure management to include:
 - A longer term view
@@ -113,3 +117,8 @@ Mayor Arreguin announced in his 2017 State of the City address his intention to 
 > _Shall the measure, advising the Mayor to engage citizens and experts in the development of Vision 2050, a 30-year plan to identify and guide implementation of climate-smart, technologically-advanced, integrated and efficient infrastructure to support a safe, vibrant and resilient future for Berkeley, be adopted?_
 
 Our community’s overwhelming response was “yes.”
+
+
+
+
+[infrastructureupdate]: edits/infrastructure.md

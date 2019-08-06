@@ -27,7 +27,7 @@ Infrastructure on the surface is the most familiar feature—streets, sidewalks 
 Beneath our feet is another extensive world of cables, pipes, tunnels and vaults that we rarely think about until something breaks. This infrastructure delivers water to our homes and businesses, brings natural gas for heating and cooking, and takes away our sewage. It is also part of the electric and communications grids and home to Berkeley’s underground BART system.
 
 Table 1 shows the magnitude of Berkeley’s infrastructure systems.
-[Table 1A shows a constantly-updated catalog of Berkeley's infrastructure systems]()
+[Table 1A shows a constantly-updated catalog of Berkeley's infrastructure systems][infrastructureupdate]
 
 <table>
 <thead>
@@ -123,3 +123,8 @@ Mayor Arreguin announced in his 2017 State of the City address his intention to 
 > _Shall the measure, advising the Mayor to engage citizens and experts in the development of Vision 2050, a 30-year plan to identify and guide implementation of climate-smart, technologically-advanced, integrated and efficient infrastructure to support a safe, vibrant and resilient future for Berkeley, be adopted?_
 
 Our community’s overwhelming response was “yes.”
+
+
+
+
+[infrastructureupdate]: edits/infrastructure.md
