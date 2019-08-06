@@ -31,14 +31,15 @@ This is a very preliminary working draft. Please don't panic.
 
 ___
 
- ![Permeable Parking by University Avenue and Marina](../images/street.jpg "Permeable Paving by Aquatic Park")
+![Permeable Parking by University Avenue and Marina](../images/street.jpg "Permeable Paving by Aquatic Park")
  *Permeable paving by Berkeley Aquatic Park*
 
 
 <p> <img src="../images/bart2.png" alt="Berkeley Downtown BART" title="BART" width="50%"/></p>
 *Berkeley Downtown BART station (tens of millions of dollars of capital investment)*
- ![Berkeley High permeable street](../images/bike.jpg)
+
+![Berkeley High permeable street](../images/bike.jpg)
  *Permeable paving by Berkeley High*
 
- ![Your-Revenue-Bond-dollars-at-work-parking-garage](../images/parking-garage.jpg)
+![Your-Revenue-Bond-dollars-at-work-parking-garage](../images/parking-garage.jpg)
  *Your revenue bond dollars at work: Berkeley Downtown parking garage*
