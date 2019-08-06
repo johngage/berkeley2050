@@ -7,6 +7,9 @@ Most recent update: **Tuesday, August 6, 2019**
 - ### Note for all readers:
 
 This is a very preliminary working draft. Please don't panic.
+These pages change daily, to link in new data sources, new City documents, and new analyses. If you revisit, refresh the page:
+`Windows — Hold down Ctrl and press R.`
+`Mac — Hold down ⌘ Command and press R.`
 
  As a new practice in urban planning, we are building a working plan in an interactive book containing the actual calculations that lie behind the analysis, so you can see how each number is derived from data.   *JupyterBooks* include **Jupyter Notebooks**, introduced at UCBerkeley to support all Data Science courses, which allow direct access to all data sources and, more importantly, to all computations and analyses based on that data.
 
