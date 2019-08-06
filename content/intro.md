@@ -1,6 +1,6 @@
 ## Berkeley 2050 Vision materials
 
-Most recent update: **Monday, August 5, 2019**
+Most recent update: **Tuesday, August 6, 2019**
 
 - Draft document prepared for August 1, 2019 6:30pm meeting City Hall, sixth floor.
 
