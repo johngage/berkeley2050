@@ -1,7 +1,17 @@
 # **Section 1**
 # **The Vision 2050 Initiative**
 
-Vision 2050 is a citizen-led planning effort, convened by Mayor Jesse Arreguin, to create a common vision to guide physical infrastructure planning. The vision extends over 30 years to encourage long-term planning that will begin to meet the serious challenges of the 21st century— including climate change, inequality, population changes and aging infrastructure— and improve the quality of life for the next generation of Berkeley residents. Vision 2050 proposes to move beyond business-as-usual to accelerate the building of climate-smart, technologically advanced, integrated, and efficient infrastructure.
+Vision 2050 is a citizen-led planning effort, convened by Mayor Jesse Arreguin, to develop a Berkeley vision to guide physical infrastructure planning for energy, water, housing, food, transportation, communications, and all the other vital services and institutions that make Berkeley living and vibrant.
+
+We focus on City of Berkeley investment, but the City is responsible for only a small part of the overall infrastructure investment in what we need to live here.
+
+Tens of billions of dollars of past infrastructure investment allow us to live in Berkeley today. Tens of billions more will be needed over the next thirty years.
+
+We examine what will be needed, how we might pay for it, and how we can work together to do what is needed.
+
+So, we examine the overall direction of our city, and the role the City government can play in shaping the next thirty years of infrastructure investment. As a rough estimate, the City of Berkeley will invest over one billion dollars over the next thirty years in streets, sewers, communications, parks, waste and storm water systems. UC Berkeley, LBNL, EBMUD, PG&E, and Berkeley residents will invest far more.
+
+The vision extends over 30 years to encourage long-term planning that will begin to meet the serious challenges of the 21st century— including climate change, inequality, population changes and aging infrastructure— and improve the quality of life for the next generation of Berkeley residents. Vision 2050 proposes to move beyond business-as-usual to accelerate the building of climate-smart, technologically advanced, integrated, and efficient infrastructure.
 
 ## What is Infrastructure?
 The structures, facilities, services and institutions that each of us needs to live, to work, to have healthy families and a healthy environment.
@@ -27,9 +37,14 @@ Infrastructure on the surface is the most familiar feature—streets, sidewalks 
 
 Beneath our feet is another extensive world of cables, pipes, tunnels and vaults that we rarely think about until something breaks. This infrastructure delivers water to our homes and businesses, brings natural gas for heating and cooking, and takes away our sewage. It is also part of the electric and communications grids and home to Berkeley’s underground BART system.
 
-Table 1 shows the magnitude of Berkeley’s infrastructure systems. **This table has been vastly expanded, with LBNL and UCB 2019 reports linked to table elements**
-_Example: [LBNL electricity use](https://sbl.bime.io/dashboard/585852870047386230139916294497CA89365C49EB555D91C318B3C309A95D0D)_
-[Table 1A shows a constantly-updated catalog of Berkeley's infrastructure systems][infrastructureupdate]
+**This table has been vastly expanded, with LBNL and UCB 2019 reports linked to table elements. Building data sources for every number in this table**
+
+_Example: [LBNL 2019 electricity use](https://sbl.bime.io/dashboard/585852870047386230139916294497CA89365C49EB555D91C318B3C309A95D0D)_
+
+Table 1 shows the magnitude of Berkeley’s infrastructure systems.
+
+
+[Table 1A, under construction, shows a constantly-updated catalog of Berkeley's infrastructure systems][infrastructureupdate]
 
 <table>
 <thead>
