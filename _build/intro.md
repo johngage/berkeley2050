@@ -1,22 +1,25 @@
 ---
-title: 'Intro'
+title: 'Editor Intro'
 prev_page:
   url: 
   title: ''
 next_page:
   url: /01cover/cover2.html
-  title: 'Berkeley Infrastructure Alternate Cover'
+  title: 'Berkeley Infrastructure Alternate cover'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 ## Berkeley 2050 Vision materials
 
-Most recent update: **Tuesday, August 6, 2019**
+Most recent update: **Wednesday, August 14, 2019**
 
-- Draft document prepared for August 1, 2019 6:30pm meeting City Hall, sixth floor.
+- Based on draft document prepared for August 1, 2019 6:30pm meeting City Hall, sixth floor.
 
 - ### Note for all readers:
 
 This is a very preliminary working draft. Please don't panic.
+
+The original Draft Report Sections track the work of the Vision2050 Steering Committee. The parallel Enhanced Sections add links to data sources and Jupyter Notebooks, for data analysis.
+
 These pages change daily, to link in new data sources, new City documents, and new analyses. If you revisit, refresh the page:
 `Windows — Hold down Ctrl and press R.`
 `Mac — Hold down ⌘ Command and press R.`
@@ -25,7 +28,7 @@ These pages change daily, to link in new data sources, new City documents, and n
 
  Our goal is open data, open analysis, open discussion, open decision making. Democracy relies upon common facts and agreed-upon common analysis of those facts.
 
-##  If you don't like the analysis, then go out and make one of your own.
+###  If you don't like the analysis, then go out and make one of your own.
 (Thanks, Scoop Nitzker)
 
 Not all the images and tables are in this version, yet. In progress.

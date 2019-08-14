@@ -9,7 +9,7 @@
 
 <p> <img src="../images/infrastructure1.jpg" alt="Berkeley Underground: Where your real money goes, never to be seen again" title="Margo Schueler X-Ray Vision" width="100%"/></p>
 
-*This report is about Berkeley's flows of people, water, power, goods, information, and money. These are the streets, pipes, power lines, communication networks and institutions that make Berkeley possible*
+*This report is about Berkeley's flows of people, water, power, goods, information, and money. This is the infrastructure for those flows.*
 
 ### Three Overlapping Entities Build Berkeley Infrastructure
 - **City of Berkeley**:

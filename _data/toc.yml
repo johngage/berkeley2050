@@ -23,75 +23,158 @@
 # See the demo `toc.yml` for the right structure to follow. You can
 # generate a demo book by running `jupyter-book create mybook --demo`
 # ==============================
-# ===== NEW SECTION ========================================
-- title: Intro
-  url: /intro
+- header: 'Prefatory Material'
 
-- title: Berkeley Infrastructure Alternate Cover
-  url: /01cover/cover2
-# ===== NEW SECTION ========================================
-- title: Cover
-  url: /01cover/cover
-# ===== NEW SECTION ========================================
-- title: Quote
-  url: /02quote/quote
-# ===== NEW SECTION ========================================
-- title: Table of Contents
-  url: /03toc/toc
-# ===== NEW SECTION ========================================
-- title: Forward
-  url: /04forward/forward
-# ===== NEW SECTION ========================================
-- title: Acknowledgements
-  url: /05ack/ack
-# ===== NEW SECTION ========================================
-- title: Members
-  url: /06members/members
-# ===== NEW SECTION ========================================
-- title: Executive Summary
-  url: /07execsummary/exec
-# ===== NEW SECTION ========================================
-- title: Section 1
+- title: Editor Intro
+  url: /intro
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Berkeley Infrastructure Alternate cover
+    url: /01cover/cover2
+    not_numbered: true
+  - title: Cover
+    url: /01cover/cover
+    not_numbered: true
+  - title: Quote
+    url: /02quote/quote
+    not_numbered: true
+  - title: Table of Contents
+    url: /03toc/toc
+    not_numbered: true
+  - title: Forward
+    url: /04forward/forward
+    not_numbered: true
+  - title: Acknowledgements
+    url: /05ack/ack
+    not_numbered: true
+  - title: Members
+    url: /06members/members
+    not_numbered: true
+  - title: Executive Summary
+    url: /07execsummary/exec
+    not_numbered: true
+
+- divider: true
+
+- divider: true
+
+#- heading: Main Report Body
+- title: 'Section 1--Original and Enhanced'
   url: /sec1/sec1
-# ===== NEW SECTION ========================================
-- title: Section 2
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: 'Vision 2050 Initiative: Original'
+    url: /sec1/sec1
+    not_numbered: true
+  - title: 'Section 1: Enhanced'
+    url: ./sec1/sec1
+    not_numbered: true
+
+
+#- divider: true
+- title: 'Section 2--Original and Enhanced'
   url: /sec2/sec2
-# ===== NEW SECTION ========================================
-- title: Section 3
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: A.Section 2-- Street Corner View of Berkeley in 2050
+    url: /sec2/sec2
+    not_numbered: true
+  - title: B.Section 2-- Enhanced
+    url: /sec2/sec2
+    not_numbered: true
+
+
+- title: 'Section 3--Original and Enhanced'
   url: /sec3/3
-# ===== NEW SECTION ========================================
-- title: Section 4
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Section 3-- Building on Current Infrastructure Planning
+    url: /sec3/3
+    not_numbered: true
+
+
+- title: 'Section 4--Original and Enhanced'
   url: /sec4/4
-# ===== NEW SECTION ========================================
-- title: Section 5
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Section 4-- Future Challenges For Our Infrastructure
+    url: /sec4/4
+    not_numbered: true
+
+
+- title: 'Section 5--Original and Enhanced'
   url: /sec5/5
-# ===== NEW SECTION ========================================
-- title: Section 6
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Section 5-- Recommendations
+    url: /sec5/5
+    not_numbered: true
+
+
+- title: 'Section 6--Original and Enhanced'
   url: /sec6/6
-# ===== NEW SECTION ========================================
-- title: Section 7
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Section 6-- Engaging Our Community
+    url: /sec6/6
+    not_numbered: true
+
+
+- title: 'Section 7--Original and Enhanced'
   url: /sec7/7
+  not_numbered: true
+  expand_sections: true
+  sections:- title: Section 7--
+  url: /sec7/7
+  not_numbered: true
+
+
 # ===== NEW SECTION ========================================
 - title: How To Use This Report
   url: /08howtouse/howtouse
+  not_numbered: true
 # ===== NEW SECTION ========================================
 - title: Adeline Plan Table of Contents
   url: /09adelinetoc/adelinetoc
+  not_numbered: true
 # ===== NEW SECTION ========================================
 - title: Five Big Ideas
   url: /10bigideas/bigfive
-# ===== NEW SECTION ========================================
-- title: Appendix A
+  not_numbered: true
+- title: 'Appendix A--Original and Enhanced'
   url: /appenda/a1
-# ===== NEW SECTION ========================================
-- title: Appendix B
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Appendix A
+    url: /appenda/a1
+
+
+- title: 'Appendix B--Original and Enhanced'
   url: /appendb/b1
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Appendix B
+    url: /appendb/b1
+
+
 # ===== NEW SECTION ========================================
-- title: Markdown
+- header: Report Details
+  expand_sections: true
+- title: Report details
   url: /features/markdown
-- title: Notebooks
-  url: /features/notebooks
-- title: Features
-  url: /features/features
-- title: Edits
-  url: /edits/section1edits
+- sections:
+  - title: Notebooks
+    url: /features/notebooks
+  - title: Features
+    url: /features/features
+  - title: Edits
+    url: /edits/section1edits
