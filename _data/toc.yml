@@ -69,7 +69,7 @@
     url: /sec1/sec1
     not_numbered: true
   - title: 'Section 1: Enhanced'
-    url: ./sec1/sec1
+    url: ./sec1/sec1plus
     not_numbered: true
 
 
