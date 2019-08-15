@@ -17,7 +17,7 @@ We focus on City of Berkeley investment, but the City is responsible for only a 
 
 Tens of billions of dollars of past infrastructure investment allow us to live in Berkeley today. Tens of billions more will be needed over the next thirty years.
 
-We examine what will be needed, how we might pay for it, and how we can work together to do what is needed.
+We examine what will be needed, how we might pay for it, and how we can work together at all levels in Berkeley to do what is needed.
 
 So, we examine the overall direction of our city, and the role the City government can play in shaping the next thirty years of infrastructure investment. As a rough estimate, the City of Berkeley will invest over one billion dollars over the next thirty years in streets, sewers, communications, parks, waste and storm water systems. UC Berkeley, LBNL, EBMUD, PG&E, and Berkeley residents will invest far more.
 
