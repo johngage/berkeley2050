@@ -143,3 +143,6 @@ plugins:
 
 # Jupyter Book version - DO NOT CHANGE THIS. It is generated when a new book is created
 jupyter_book_version: 0.5.2
+
+# Include in publishing so can be seen from outside browser
+include: _site
