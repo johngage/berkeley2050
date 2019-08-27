@@ -23,7 +23,7 @@
 # See the demo `toc.yml` for the right structure to follow. You can
 # generate a demo book by running `jupyter-book create mybook --demo`
 # ==============================
-- header: 'Prefatory Material'
+- header: 'Preliminary Material'
 
 - title: Editor Intro
   url: /intro
@@ -59,8 +59,8 @@
 
 - divider: true
 
-#- heading: Main Report Body
-- title: 'Section 1--Original and Enhanced'
+- header: 'Report: Original Version | Enhanced Version'
+- title: 'Section 1--Original | Enhanced'
   url: /sec1/sec1
   not_numbered: true
   expand_sections: true
@@ -74,20 +74,20 @@
 
 
 #- divider: true
-- title: 'Section 2--Original and Enhanced'
+- title: 'Section 2--Original | Enhanced'
   url: /sec2/sec2
   not_numbered: true
   expand_sections: true
   sections:
-  - title: A.Section 2-- Street Corner View of Berkeley in 2050
+  - title: Section 2-- Street Corner View of Berkeley in 2050
     url: /sec2/sec2
     not_numbered: true
-  - title: B.Section 2-- Enhanced
+  - title: Section 2-- Enhanced
     url: /sec2/sec2
     not_numbered: true
 
 
-- title: 'Section 3--Original and Enhanced'
+- title: 'Section 3--Original | Enhanced'
   url: /sec3/3
   not_numbered: true
   expand_sections: true
@@ -97,7 +97,7 @@
     not_numbered: true
 
 
-- title: 'Section 4--Original and Enhanced'
+- title: 'Section 4--Original | Enhanced'
   url: /sec4/4
   not_numbered: true
   expand_sections: true
@@ -107,7 +107,7 @@
     not_numbered: true
 
 
-- title: 'Section 5--Original and Enhanced'
+- title: 'Section 5--Original | Enhanced'
   url: /sec5/5
   not_numbered: true
   expand_sections: true
@@ -117,7 +117,7 @@
     not_numbered: true
 
 
-- title: 'Section 6--Original and Enhanced'
+- title: 'Section 6--Original | Enhanced'
   url: /sec6/6
   not_numbered: true
   expand_sections: true
@@ -127,7 +127,7 @@
     not_numbered: true
 
 
-- title: 'Section 7--Original and Enhanced'
+- title: 'Section 7--Original | Enhanced'
   url: /sec7/7
   not_numbered: true
   expand_sections: true
@@ -148,7 +148,7 @@
 - title: Five Big Ideas
   url: /10bigideas/bigfive
   not_numbered: true
-- title: 'Appendix A--Original and Enhanced'
+- title: 'Appendix A--Original | Enhanced'
   url: /appenda/a1
   not_numbered: true
   expand_sections: true
@@ -157,7 +157,7 @@
     url: /appenda/a1
 
 
-- title: 'Appendix B--Original and Enhanced'
+- title: 'Appendix B--Original | Enhanced'
   url: /appendb/b1
   not_numbered: true
   expand_sections: true
