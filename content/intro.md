@@ -1,8 +1,9 @@
 ## Berkeley 2050 Vision materials
 
-Most recent update: **Wednesday, August 14, 2019**
+Most recent update: **Tuesday, September 17, 2019**
 
-- Based on draft document prepared for August 1, 2019 6:30pm meeting City Hall, sixth floor.
+- Based on draft document prepared for August 1, 2019 6:30pm meeting City Hall, sixth floor; revised draft, September 1, 2019 in process of replacing initial draft.
+- The Table of Contents reflects the parallel nature of this document: for each Task Force chapter, I'm building a companion chapter exploring each data source, each measurement, each quantitative analysis and extrapolation, utilizing interactive Jupyter notebooks to acquire and visualize the data. The central thread leads through the chapters of the Taskforce document; the secondary thread in the TOC leads through the companion chapters.
 
 - ### Note for all readers:
 
