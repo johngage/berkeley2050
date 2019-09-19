@@ -1,13 +1,14 @@
 ## Berkeley 2050 Vision materials
 
-Most recent update: **Tuesday, September 17, 2019**
+Most recent update: **Thursday, September 19, 2019**
 
-- Based on draft document prepared August 1, 2019; revised draft, September 1, 2019 in process of replacing initial draft.
+- Based on draft document prepared August 1, 2019; revised draft, September 1, 2019. In process of updating initial draft.
+- Working on building parallel texts,or a parallel TOC, to allow the original draft to remain unchanged, while displaying edits and suggestions in a parallel version.
 - The Table of Contents reflects the parallel nature of this document: for each Task Force chapter, I'm building a companion chapter exploring each data source, each measurement, each quantitative analysis and extrapolation, utilizing interactive Jupyter notebooks to acquire and visualize the data. The central thread leads through the chapters of the Taskforce document; the secondary thread in the TOC leads through the companion chapters.
 
 - ### Note for all readers:
 
-This is a very preliminary working draft. Please don't panic.
+This is a preliminary working draft. Please don't panic.
 
 The original Draft Report Sections track the work of the Vision2050 Steering Committee. The parallel Enhanced Sections add links to data sources and Jupyter Notebooks, for data analysis.
 
