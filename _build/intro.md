@@ -10,7 +10,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ---
 ## Berkeley 2050 Vision materials
 
-Most recent update: **Tuesday, September 17, 2019**
+Most recent update: **Tuesday, September 17, 2019--but should be Thursday**
 
 - Based on draft document prepared August 1, 2019; revised draft, September 1, 2019 in process of replacing initial draft.
 - The Table of Contents reflects the parallel nature of this document: for each Task Force chapter, I'm building a companion chapter exploring each data source, each measurement, each quantitative analysis and extrapolation, utilizing interactive Jupyter notebooks to acquire and visualize the data. The central thread leads through the chapters of the Taskforce document; the secondary thread in the TOC leads through the companion chapters.
